@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/layout/activity_add_person.xml" value="0.22" />
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/layout/activity_add_person1.xml" value="0.27309782608695654" />
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/layout/activity_main.xml" value="0.26582278481012656" />
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/layout/activity_menu_screen.xml" value="0.27309782608695654" />
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/layout/activity_player_info.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/layout/activity_players_list.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/layout/activity_players_list1.xml" value="0.19375" />
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/layout/menu_screen.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Justas/AndroidStudioProjects/BadmintonManagerV2/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
